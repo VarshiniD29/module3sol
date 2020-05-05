@@ -1,0 +1,79 @@
+body{
+	margin:0;
+	font-size:15px;
+	color:black;
+	background-color:LavenderBlush;
+	font-family:Arial,Helvetica,Sans-serif;
+}
+#header-nav {
+	background-color:#2F4F4F;
+	border:0.8px solid black;
+	border-radius:0;
+}
+.navbar-brand{
+	float:left;
+	height:auto;
+	padding:0px;
+	font-size:18px;
+}
+.navbar-brand h1{
+color:#D2691E;}
+
+.navbar-header button.navbar-toggle,.navbar-header .icon-bar{
+border:1px solid Orange;}
+#nav-list{
+margin-top:0px;
+background-color:#7FFFD4;
+font-size:1.8em;}
+#nav-list li{
+	border-color:black;
+	text-align:center;
+}
+#nav-list li:hover
+{
+
+box-shadow:4px 4px ;
+background-color:LemonChiffon;}
+
+#box
+{
+box-sizing:border-box;
+border:1px solid black;
+height:1000px;
+margin:20px;
+padding-left:10px;
+background-color:gainsboro;
+}
+#box h1{
+	text-align:center;
+	color:maroon;
+	font-family:Italics;
+}
+#box1 h1{
+	text-align:center;
+	color:maroon;
+	font-family:Italics;
+}
+#box2 h1{
+	text-align:center;
+	color:maroon;
+	font-family:Italics;
+}
+#box1
+{
+box-sizing:border-box;
+border:1px solid black;
+height:1000px;
+margin:15px;
+padding-left:10px;
+background-color:gainsboro;
+}
+#box2
+{
+box-sizing:border-box;
+border:1px solid black;
+height:1000px;
+margin:15px;
+padding-left:10px;
+background-color:gainsboro;
+}
